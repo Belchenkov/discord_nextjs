@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Discord NextPrisma
+
+> Create an real-time discord clone, all with servers, channels, video calls, audio calls, editing and deleting messages as well as member roles
 
 ## Getting Started
 
